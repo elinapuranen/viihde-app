@@ -1,16 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Viihde-app
 
-## Available Scripts
+An app for displaying current program data from Finnish television channels.
 
-In the project directory, you can run:
+## Motivation
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+I have created this app as an answer to a pre-assignment.
 
 ### `npm test`
 
