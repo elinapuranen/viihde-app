@@ -17,7 +17,7 @@ Built with
 
 ## Features
 
-This app presents what is currently airing in Finnish television channels. It's programlist includes the most common channels and Viasat channels. The view can be changed from common channels to Viasat channels by clicking a button. In addition to channel and program names the app shows a short description of programs, when they have started and when they are ending.
+This app presents what is currently airing in Finnish television channels. It's program list includes the most common channels and Viasat channels. The view can be changed from common channels to Viasat channels with a button click. In addition to channel and program names the app shows short descriptions of the programs, when they have started and when they are ending.
 
 ## Installation
 
