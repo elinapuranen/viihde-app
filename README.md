@@ -1,15 +1,14 @@
-## Viihde-app
+## Viihde App
 
 An app for displaying current program data from Finnish television channels.
 
 ## Motivation
 
-I have created this app as an answer to a pre-assignment.
+This app has been created as an answer to a pre-assignment given for me.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Alt text](./app.png?raw=true "Screenshot")
 
 ### `npm run build`
 
